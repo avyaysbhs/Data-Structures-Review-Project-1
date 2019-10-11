@@ -1,0 +1,11 @@
+Code: RBOV
+Guess: RRRR
+Color Correct - Correctly Placed: 1
+Color Correct - Incorrectly Placed: 0
+
+Code: RBOV
+Guess: RBOV
+Color Correct - Correctly Placed: 4
+Color Correct - Incorrectly Placed: 0
+
+

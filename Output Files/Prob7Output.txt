@@ -1,0 +1,8 @@
+Booth 1: 155.22 euros
+Booth 2: 157.6 euros
+Booth 2 is the best; difference is 2.380000
+
+Booth 1: 109.25 euros
+Booth 2: 108.9 euros
+Booth 1 is the best; difference is 0.340000
+

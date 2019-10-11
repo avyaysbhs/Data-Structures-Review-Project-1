@@ -1,0 +1,30 @@
+Measure		1	2	3	4	5	6	7	8
+G# 			 	 	 	 	 	 	 	O
+G 			 	 	 	 	 	 	 	 
+F# 			 	 	 	 	 	 	 	 
+F 			 	 	 	 	 	 	 	 
+E 			O	O	O	 	 	O	O	 
+D# 			 	 	 	 	 	 	 	 
+D 			 	 	 	 	 	 	 	 
+C# 			 	 	O	 	 	 	O	O
+C 			O	O	 	O	 	O	 	 
+B 			 	 	 	 	 	 	 	 
+A# 			 	 	 	 	 	 	 	 
+A 			 	 	O	 	 	 	O	 
+G# 			 	 	 	 	 	 	 	O
+G 			O	O	 	 	 	O	 	 
+F# 			 	 	 	 	 	 	 	 
+F 			 	 	 	 	 	 	 	 
+E 			O	O	O	 	O	O	O	 
+D# 			 	 	 	 	 	 	 	 
+D 			 	 	 	 	 	 	 	O
+C# 			 	 	 	 	 	 	 	 
+C 			O	O	 	O	 	O	 	 
+B 			 	 	 	 	 	 	 	 
+A# 			 	 	 	 	 	 	 	 
+A 			 	 	O	 	 	 	O	 
+G# 			 	 	 	 	 	 	 	 
+G 			 	 	 	 	 	 	 	 
+F# 			 	 	 	 	 	 	 	 
+F 			 	 	 	 	 	 	 	 
+E 			 	 	 	 	 	 	 	 

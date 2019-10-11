@@ -1,0 +1,14 @@
+Set 1: {52, 18, 27, 12, 7}
+Set 2: {18, 55, 108, 6, 4, 7}
+Set 3: {19, 15, 18, 7, 4, 8}
+	Intersection of sets: {18, 7}
+Set 1: {1, 2, 3}
+Set 2: {2, 3, 4}
+Set 3: {4, 5, 2}
+	Intersection of sets: {2}
+Set 1: {1, 2, 3}
+Set 2: {1, 2}
+Set 3: {1}
+	Intersection of sets: {1}
+
+

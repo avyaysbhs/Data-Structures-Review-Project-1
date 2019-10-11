@@ -1,0 +1,10 @@
+Dollars: 200
+CR1: 0.78
+Fee: 1 
+CR2: 0.80
+Fee: 3 
+Dollars: 100
+CR1: 1.15
+Fee: 5
+CR2: 1.10
+Fee: 1

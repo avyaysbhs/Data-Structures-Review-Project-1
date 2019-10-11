@@ -1,0 +1,42 @@
+Highest MPG                             Lowest MPG
+
+	vw rabbit c (diesel)                    hi 1200d
+	honda civic 1500 gl                     ford f250
+	mazda glc                               chevy c20
+
+Highest Cylinders                       Lowest Cylinders
+
+	oldsmobile cutlass ls                   mazda rx2 coupe
+	oldsmobile cutlass salon brougham       maxda rx3
+	cadillac eldorado                       mazda rx-4
+
+Highest Displacement                    Lowest Displacement
+
+	buick electra 225 custom                fiat 128
+	buick estate wagon (sw)                 mazda rx2 coupe
+	pontiac catalina                        maxda rx3
+
+Highest Horsepower                      Lowest Horsepower
+
+	buick electra 225 custom                volkswagen 1131 deluxe sedan
+	buick estate wagon (sw)                 volkswagen super beetle
+	pontiac grand prix                      volkswagen rabbit custom diesel
+
+Highest Weight                          Lowest Weight
+
+	dodge monaco (sw)                       datsun 1200
+	chevrolet impala                        toyota corona
+	pontiac safari (sw)                     toyota starlet
+
+Highest Acceleration                    Lowest Acceleration
+
+	vw dasher (diesel)                      plymouth 'cuda 340
+	vw pickup                               plymouth fury iii
+	peugeot 504                             amc ambassador dpl
+
+Highest Year                            Lowest Year
+
+	chevy s-10                              chevrolet chevelle malibu
+	ford ranger                             buick skylark 320
+	dodge rampage                           plymouth satellite
+

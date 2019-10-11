@@ -1,0 +1,20 @@
+Trip 1
+	Departure Date and Time: 08:56 AM on 10/11/19
+	Arrival Date and Time: 09:06 AM on 10/11/19
+	
+Trip 2
+	Departure Date and Time: 08:56 AM on 10/11/19
+	Arrival Date and Time: 09:06 AM on 10/31/19
+	
+Trip 3
+	Departure Date and Time: 08:56 AM on 10/11/19
+	Arrival Date and Time: 08:56 AM on 10/10/20
+	
+Trip 4
+	Departure Date and Time: 08:56 AM on 10/11/19
+	Arrival Date and Time: 08:56 AM on 10/10/21
+	
+Trip 5
+	Departure Date and Time: 08:56 AM on 10/11/19
+	Arrival Date and Time: 08:56 AM on 06/19/33
+	
